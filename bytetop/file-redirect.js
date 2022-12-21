@@ -1,10 +1,10 @@
-loadScript("https://bytenetworksys.github.io/static/bytetop/roles/roles.js")
+loadScript("https://lazer-v.github.io/static/bytetop/roles/roles.js")
 
-loadScript("https://bytenetworksys.github.io/static/bytetop/roles/roleUsers.js")
+loadScript("https://lazer-v.github.io/static/bytetop/roles/roleUsers.js")
 
 // Mark for history purposes (Dec 10, 11:02 EST) You fixed ByteTop with @Siri!
 
-loadScript("https://bytenetworksys.github.io/static/bytetop/roles/generateRoles.js")
+loadScript("https://lazer-v.github.io/static/bytetop/roles/generateRoles.js")
 
 
 
