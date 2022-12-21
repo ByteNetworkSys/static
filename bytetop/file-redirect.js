@@ -1,10 +1,10 @@
-loadScript("https://static90fba.mixxer.repl.co/bytetop/roles/roles.js")
+loadScript("https://bytenetworksys.github.io/static/bytetop/roles/roles.js")
 
-loadScript("https://static90fba.mixxer.repl.co/bytetop/roles/roleUsers.js")
+loadScript("https://bytenetworksys.github.io/static/bytetop/roles/roleUsers.js")
 
 // Mark for history purposes (Dec 10, 11:02 EST) You fixed ByteTop with @Siri!
 
-loadScript("https://static90fba.mixxer.repl.co/bytetop/roles/generateRoles.js")
+loadScript("https://bytenetworksys.github.io/static/bytetop/roles/generateRoles.js")
 
 
 
